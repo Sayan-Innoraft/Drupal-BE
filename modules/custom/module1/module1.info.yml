@@ -1,5 +1,5 @@
-name: sayan
-description: This is a custom module for sayan.
+name: module1
+description: This is a custom module for module1.
 package: custom
 type: module
 core_version_requirement: ^9.2 || ^10
