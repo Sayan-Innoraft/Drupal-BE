@@ -5,3 +5,4 @@ module2.content:
     _title: 'Greetings'
   requirements:
     _permission: 'access content'
+    _user_is_logged_in: 'TRUE'
