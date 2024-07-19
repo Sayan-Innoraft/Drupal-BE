@@ -1,0 +1,8 @@
+name: sayan
+description: This is a custom module for sayan.
+package: custom
+type: module
+core_version_requirement: ^9.2 || ^10
+
+dependencies:
+  - paragraphs:paragraphs
