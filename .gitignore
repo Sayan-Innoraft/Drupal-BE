@@ -24,3 +24,5 @@
 /sites/development.services.yml
 /autoload.php
 /example.gitignore
+.idea
+.vscode
