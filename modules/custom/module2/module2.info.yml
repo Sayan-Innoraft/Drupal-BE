@@ -1,0 +1,5 @@
+name: module2
+description: This is a custom module for module2.
+package: custom
+type: module
+core_version_requirement: ^9.2 || ^10

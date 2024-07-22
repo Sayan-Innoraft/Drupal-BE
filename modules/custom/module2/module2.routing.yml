@@ -1,0 +1,8 @@
+module2.content:
+  path: '/greet'
+  defaults:
+    _controller: '\Drupal\module2\Controller\Module2Controller::hello'
+    _title: 'Greetings'
+  requirements:
+    _permission: 'access content'
+    _user_is_logged_in: 'TRUE'
