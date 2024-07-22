@@ -15,11 +15,8 @@ class Module2Controller extends ControllerBase {
    * @return []
    */
   public function hello() {
-
     return [
-      // Your theme hook name.
       '#theme' => 'greet_theme',
-      // Your variables.
       '#name' => \Drupal::currentUser()->getAccountName(),
     ];
   }
