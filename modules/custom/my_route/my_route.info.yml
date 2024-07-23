@@ -1,0 +1,5 @@
+name: 'My route'
+type: module
+description: 'Module for custom route.'
+package: 'custom'
+core_version_requirement: ^10
