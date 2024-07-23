@@ -1,0 +1,4 @@
+name: drupal-advanced
+recipe: drupal10
+config:
+  webroot: .

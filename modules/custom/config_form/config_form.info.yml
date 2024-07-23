@@ -1,0 +1,5 @@
+name: 'ConfigForm'
+type: module
+description: 'Config form module.'
+package: 'custom'
+core_version_requirement: ^10

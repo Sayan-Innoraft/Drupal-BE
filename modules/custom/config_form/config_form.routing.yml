@@ -1,0 +1,7 @@
+config_form.config:
+  path: '/admin/config/system/config-form'
+  defaults:
+    _title: 'Config'
+    _form: 'Drupal\config_form\Form\ConfigForm'
+  requirements:
+    _permission: 'administer site configuration'
