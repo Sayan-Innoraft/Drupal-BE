@@ -1,0 +1,8 @@
+my_route.hello:
+  path: '/campaign/value/{id}'
+  defaults:
+    _title: 'Dynamic Route'
+    _controller: '\Drupal\my_route\Controller\MyRouteController::hello'
+  requirements:
+    _permission: 'access content'
+    id: '[\d]+'
