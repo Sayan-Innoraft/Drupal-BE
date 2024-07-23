@@ -1,0 +1,8 @@
+# Schema for the configuration files of the ConfigForm module.
+config_form.settings:
+  type: config_object
+  label: 'ConfigForm settings'
+  mapping:
+    example:
+      type: string
+      label: 'Example'
